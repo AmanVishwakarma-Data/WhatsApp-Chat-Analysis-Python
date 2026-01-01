@@ -88,22 +88,5 @@ CHAT_ANALYSIS/
 
 ---
 
-## 📌 Future Enhancements (Coming Soon) 
-
-* Message sentiment analysis
-* Word cloud visualization
-* Peak hour KPIs
-* Exporting analysis results
-
----
-
-### ⭐ Support
-
-If you find this project useful, give it a **star** on GitHub to support my work!
-
----
-
-**Made with ❤️ by Aman Vishwakarma**
-Data Science Enthusiast | Python & Power BI Learner 🚀
 
 
