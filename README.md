@@ -63,7 +63,7 @@ CHAT_ANALYSIS/
 1. Clone this repository:
 
    ```powershell
-   git clone <repo-link>
+   git clone [<repo-link>](https://github.com/AmanVishwakarma-Data/WhatsApp-Chat-Analysis-Python.git)
    ```
 
 2. Install dependencies:
@@ -87,6 +87,7 @@ CHAT_ANALYSIS/
 * The repository contains only code and logic, no real personal chat exports.
 
 ---
+
 
 
 
